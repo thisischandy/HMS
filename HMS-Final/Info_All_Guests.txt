@@ -1,0 +1,3 @@
+Customer ID:,First Name:,Surname:,Address:,Customer ID:,PostCode:,Email:,Nationality:,DOB:,Check In Date:,Check Out Date:,Room Type:,Room No.:,No. of days:,
+
+
